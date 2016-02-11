@@ -1,5 +1,5 @@
 # debian_serf_jre
-## Docker base image of debian 7 with Serf 0.6.4 and JRE 1.8 installed.
+## Docker base image of debian 7 with Serf 0.7.0 and JRE 1.8 installed.
 
 Base image: [visono/debian_serf][1]:latest
 
